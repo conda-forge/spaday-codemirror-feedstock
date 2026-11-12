@@ -1,5 +1,5 @@
 context:
-  version: "0.2.0"
+  version: "0.2.1"
 
 package:
   name: spaday-codemirror
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/spaday-codemirror/spaday_codemirror-${{ version }}.tar.gz
-  sha256: 752d182e02afceab465e611192c0456681839ea8fa4ded376201c00da708e4b4
+  sha256: 865ea915a808e0d0f557ddc54ee1e9f145a76c8e0c14ef5b02853a8fd9770020
 
 build:
   number: 0
